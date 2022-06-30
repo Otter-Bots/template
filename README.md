@@ -1,8 +1,8 @@
-# TypeScript Sapphire Bot example
+# TypeScript Sapphire Bot Template
 
 This is a basic setup of a Discord bot using the [Sapphire Framework][sapphire], written in TypeScript.
 
-## How to use it?
+## How do I use it?
 
 ### Prerequisite
 
